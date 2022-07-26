@@ -1,5 +1,6 @@
 # shopping-cart
 ```
+Simple shopping-cart App, consists of two Components. CartList and ProductList.
 Node v14
 Npm 6.14
 ```
