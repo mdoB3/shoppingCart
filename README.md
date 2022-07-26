@@ -1,18 +1,22 @@
 # shopping-cart
-
+```
+Node v14
+Npm 6.14
+```
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run server
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm build
 ```
 
 ### Lints and fixes files
